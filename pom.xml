@@ -10,9 +10,6 @@
   <packaging>pom</packaging>
   <name>IT Academy Automation Framework</name>
   <modules>
-    <module>core</module>
-    <module>jobsearch</module>
-    <module>core</module>
     <module>jobsearch</module>
   </modules>
   <build>

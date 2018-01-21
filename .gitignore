@@ -37,3 +37,9 @@ hs_err_pid*
 # Maven
 log/
 target/
+.logs/
+bin/
+obj/
+.vs/
+packages/
+test-output/
